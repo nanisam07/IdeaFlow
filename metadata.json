@@ -1,0 +1,6 @@
+{
+  "name": "IdeaFlow",
+  "description": "Premium SaaS Analytics Dashboard to turn data into decisions, built by Idea2Site.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
