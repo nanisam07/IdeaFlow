@@ -11,7 +11,7 @@ Built with React, TypeScript, Tailwind CSS, and modern frontend technologies, Id
 
 ## 🌐 Live Demo
 
-🔗 https://your-demo-link.vercel.app
+🔗 https://ideaflow.idea2site.in
 
 ---
 
@@ -56,7 +56,7 @@ Built with React, TypeScript, Tailwind CSS, and modern frontend technologies, Id
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/ideaflow.git
+git clone https://github.com/nanisam07/IdeaFlow.git
 cd ideaflow
 ```
 
